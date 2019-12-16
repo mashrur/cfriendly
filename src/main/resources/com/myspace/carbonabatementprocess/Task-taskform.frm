@@ -1,0 +1,1 @@
+{"id":"2510188b-3796-49e4-9680-cf101dfb038b","name":"Task-taskform.frm","model":{"taskName":"Task","processId":"CarbonAbatementProcess.carbonAbatementApprovalProcess","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}
